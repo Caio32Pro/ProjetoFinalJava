@@ -1,12 +1,12 @@
-package model;
+package ProjetoFinal.demoCaio.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
-@Table
 @Entity
+@Table
 public class Cliente {
     @Id
     private int codCli;

@@ -1,9 +1,9 @@
-package controller;
+package ProjetoFinal.demoCaio.controller;
 
-import model.Cliente;
+import ProjetoFinal.demoCaio.model.Cliente;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import repository.ClienteRepo;
+import ProjetoFinal.demoCaio.repository.ClienteRepo;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,6 +1,6 @@
-package repository;
+package ProjetoFinal.demoCaio.repository;
 
-import model.Cliente;
+import ProjetoFinal.demoCaio.model.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
